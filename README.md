@@ -20,7 +20,7 @@ Data Source: Excel / CSV
 
 Visuals: Map visuals, Funnel charts, Pie charts, and Line graphs.
 
-## How to View
+## How to View:
 Download the .pbix file from this repository.
 
 Open it using Power BI Desktop.
